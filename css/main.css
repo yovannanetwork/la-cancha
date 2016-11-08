@@ -21,14 +21,14 @@
     height: 200px;
     position: relative;
     margin-top: 120px;
-    border: 2px solid #cecaca;
+    border: 1px solid #cecaca;
 }
 .arco2{
     width: 100px;
     height: 200px;
     position: relative;
     margin-left: 850px;
-    border: 2px solid #cecaca;
+    border: 1px solid #cecaca;
     bottom: 200px
 }
 .circulo{
@@ -38,7 +38,7 @@
     position: absolute;
     bottom: 130px;
     margin-left: 375px;
-    border: 2px solid #cecaca;
+    border: 1px solid #cecaca;
 }
 .bola1{
     position: absolute;
