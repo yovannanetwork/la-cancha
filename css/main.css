@@ -1,1 +1,25 @@
 /* Inserta tu CSS aqui */
+.grande{
+    background: green;
+    width: 1000px;
+    height: 500px;
+    margin-left: 150px;
+    margin-top: 50px;
+    position: fixed;
+}
+.mediana{
+    width: 950px;
+    height: 450px;
+    background: blue;
+    position: absolute;
+    margin: 25px;
+    
+}
+.cancha1 .cancha2{
+    background: yellow;
+    width: 100px;
+    height: 200px;
+    position: absolute;
+    
+    
+}
