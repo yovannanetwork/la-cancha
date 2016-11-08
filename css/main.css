@@ -10,16 +10,49 @@
 .mediana{
     width: 950px;
     height: 450px;
-    background: blue;
+    background: green;
     position: absolute;
     margin: 25px;
+    border: 2px solid #cecaca;
     
 }
-.cancha1 .cancha2{
-    background: yellow;
+.arco1{
     width: 100px;
     height: 200px;
+    position: relative;
+    margin-top: 120px;
+    border: 2px solid #cecaca;
+}
+.arco2{
+    width: 100px;
+    height: 200px;
+    position: relative;
+    bottom: 200px;
+    margin-left: 850px;
+    border: 2px solid #cecaca;
+}
+.circulo{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
     position: absolute;
+    bottom: 150px;
+    margin-left: 375px;
+    border: 2px solid #cecaca;
+}
+.bola1{
+    position: absolute;
+    left: 90px;
+    top: 125px;
+}
+.bola2{
+    position: absolute;
+    left: 490px;
+    bottom: 400px;
     
-    
+}
+.bola3{
+    position: absolute;
+    left: 820px;
+    bottom: 120px;
 }
